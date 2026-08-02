@@ -7,6 +7,8 @@ Description:
 Onshape Link: 
 - https://cad.onshape.com/documents/e00d915ce0133f8d8d58cbad/w/19ddb17e2385d1d0a82ef941/e/dbc6718f4c7d1252b3257128?renderMode=0&uiState=6a6e98129d84c89072614667
 
+Printables Link:
+- https://www.printables.com/model/1797607-all-on-one-plate
 
 Assembly Note:
 - Use magnets (3mm x 2mm) to give that nice snap fit and put any nfc tags behind the tiles.
