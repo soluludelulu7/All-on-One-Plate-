@@ -13,4 +13,4 @@ Assembly Note:
 
 
 Process Image:
-- <img width="806" height="1280" alt="WhatsApp Image 2026-07-28 at 15 22 38" src="https://github.com/user-attachments/assets/37c62c32-bfa3-4ed0-8e7a-164509763bc8" />
+- <img width="626" height="1280" alt="WhatsApp Image 2026-08-01 at 19 51 54" src="https://github.com/user-attachments/assets/5f806a67-ecef-4d19-b868-bbe4260b6d7f" />
