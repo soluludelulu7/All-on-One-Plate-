@@ -1,7 +1,7 @@
 # All-on-One-Plate-
 
 Description:
-- 3D printed QR display that consolidates all QR's and NFC's of a restaurant to boost traction.
+- 3D printed customizable QR and NFC Hub for restaurants to consolidate links such as menus, reviews, etc. By placing it at checkout counters, tables etc. restaurants can increases customer traction and reviews.
 
 
 Onshape Link: 
