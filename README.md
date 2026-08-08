@@ -1,8 +1,12 @@
-# All-on-One-Plate-
+# All on One Plate
 
 Description:
 - 3D printed customizable QR and NFC Hub for restaurants to consolidate links such as menus, reviews, etc. By placing it at checkout counters, tables etc. restaurants can increases customer traction and reviews.
 
+Motivation:
+- I made this because the restaurant system felt disconnected and one consolidated place to store everything might make the process more streamlined and better.
+- This was one of my first CAD projects so I learnt almost all I know about CAD from this project.
+- It was a nice experience and I hope this helps restaurant owners solve a small problem they face.
 
 Onshape Link: 
 - https://cad.onshape.com/documents/e00d915ce0133f8d8d58cbad/w/19ddb17e2385d1d0a82ef941/e/dbc6718f4c7d1252b3257128?renderMode=0&uiState=6a6e98129d84c89072614667
